@@ -1,6 +1,6 @@
 # Viro Starter Kit
 
-This is a blank React Native project setup with Viro.
+Customized by Equational Applications LLC, this is a blank React Native project setup with Viro.
 
 ## Installation
 
